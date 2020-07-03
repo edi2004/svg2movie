@@ -1,0 +1,16 @@
+{
+  "name": "svg2movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "puppeteer": "git://github.com/GoogleChrome/puppeteer"
+  }
+}
