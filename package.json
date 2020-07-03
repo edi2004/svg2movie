@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^9.0.1",
-    "puppeteer": "git://github.com/GoogleChrome/puppeteer"
+    "puppeteer": "5.0.0"
   }
 }
